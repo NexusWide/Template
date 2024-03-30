@@ -22,3 +22,16 @@
 ---
 
 <br>
+
+
+# Why is this fixture necessary?
+
+---
+
+
+> Because it results in some new feature, resolve that issue. 
+
+---
+
+
+<br>
