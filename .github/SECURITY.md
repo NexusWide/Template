@@ -100,7 +100,7 @@
 
 > By contribution to the reflected work, the contributor slightly announce that
 > he or she acknowledges, accepts, approves and is accountable to adhere to the NexusWide organization
-> Contribution guidelines, project regulations and style guides.
+> Contribution Guidelines, project regulations and style guides.
 
 
 > Any form of misguidance, rejection, disapproval of the aforementioned implementations, will be followed by the
