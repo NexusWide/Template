@@ -33,7 +33,7 @@
 ---
 
 
-> The annotated applications in this fragment of dossier are applied through all the development stages of the cited program,
+> The annotated applications hereunder are applied through all the development stages of the cited program,
 > which includes all branches of versioning and segmentation disregarding the present state of the Application Programming Interface.
 
 > The atop-mentioned fragments are to be interpreted as the whole of the pre-release versions ( Alpha, Beta ), development versions and post-release versions.
@@ -41,3 +41,27 @@
 
 
 ---
+
+
+
+<br>
+
+
+# What are the license appliances of the situated application?
+
+
+---
+
+
+> The elucidated Work as justified by the Creative Commons v1.0 Universal License is objectively reliable as a free and open source product,
+> therefore any scope of incorporation in other Works, modification, distribution, redistribution, patent, commercial and personal usage
+> are relinquished from limitations introduced by moral regulations.
+
+> Therefore, the **NexusWide** organization, does not represents or offers any reponsbility, guarantee or warranties regarding the satisfactory status of the Work
+> or/and shall not be held accountable for types of inaccuracy, defect or harm subjected to the Work.
+
+
+---
+
+
+<br>
