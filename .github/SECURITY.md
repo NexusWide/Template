@@ -57,7 +57,7 @@
 > therefore any scope of incorporation in other Works, modification, distribution, redistribution, patent, commercial and personal usage
 > are relinquished from limitations introduced by moral regulations.
 
-> Therefore, the **NexusWide** organization, does not represents or offers any reponsbility, guarantee or warranties regarding the satisfactory status of the Work
+> Therefore, the NexusWide organization, does not represents or offers any reponsbility, guarantee or warranties regarding the satisfactory status of the Work
 > or/and shall not be held accountable for types of inaccuracy, defect or harm subjected to the Work.
 
 
@@ -65,3 +65,18 @@
 
 
 <br>
+
+
+# What are the contributors affirmations to the project Owners?
+
+---
+
+> By contribution to the reflected work, the contributor slightly announce that
+> he or she acknowledges, accepts, approves and is accountable to adhere to the NexusWide organization
+> Contribution guidelines, project regulations and style guides.
+
+
+> Any form of misguidance, rejection, disapproval of the aforementioned implementations, will be followed by the
+> removal of the contributor from further modifications of the original Work.
+
+---
