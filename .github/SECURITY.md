@@ -3,6 +3,11 @@
 ----
 
 
+> - [Purpose of intent](#what-are-the-purposes-of-this-file)
+> - [Version Appliances](#which-development-stages-of-the-project-does-this-document-apply-to)
+> - [Contribution affirmations and laws](#What-are-the-contributors-affirmations-to-the project-owners)
+> - [Report evaluation and submission](#what-are-the-possible-report-bridges-of-the-project)
+
 
 ----
 
