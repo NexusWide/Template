@@ -5,8 +5,7 @@
 
 > - [Purpose of intent](#what-are-the-purposes-of-this-file)
 > - [Version Appliances](#which-development-stages-of-the-project-does-this-document-apply-to)
-> - [Third Party Applications legalization](#-What-are-the-third-party-tool-compensations-of-the-project) 
-> - [Contribution affirmations and laws](#What-are-the-contributors-affirmations-to-the project-owners)
+> - [Contribution affirmations and laws](#what-are-the-contributors-affirmations-to-the project-owners)
 > - [Report evaluation and submission](#what-are-the-possible-report-bridges-of-the-project)
 
 
