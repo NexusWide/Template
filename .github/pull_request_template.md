@@ -37,4 +37,13 @@
 <br>
 
 
+# Which issue notes are affected by this update?
+
+---
+
+> [Issue Note 4](https://link-to-issue-number-four.com)
+
+----
+
+
 > signed off by: `contributor1, contributor2`.
