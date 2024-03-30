@@ -24,10 +24,10 @@
     
     >  Purpose 
   >  | ------ |
-  >   Maintain legal, ethical, and regulatory requirements.  
-  >   Locate the misuse of applications, networks, data and computer systems.  
-  >   Organize the maintenance and guideline regulations of the projects.  
-  >   Introduce report or\and communication guidelines and bridges.
+  >  | Maintain legal, ethical, and regulatory requirements. |  
+  >  | Locate the misuse of applications, networks, data and computer systems. |  
+  >  | Organize the maintenance and guideline regulations of the projects. |  
+  >  | Introduce report or\and communication guidelines and bridges. |
 
 
 ---
