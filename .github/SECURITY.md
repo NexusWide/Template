@@ -84,7 +84,7 @@
 
 > | name | usage accommodation | 
 > | ---- | ------------------- |
-> | LaTeX typesetting engine | Typesetting of the documentation files represented in the organization | 
+> | LaTeX3 typesetting engine | Typesetting of the documentation files represented in the organization | 
 
 
 ---
