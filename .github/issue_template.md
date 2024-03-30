@@ -35,3 +35,12 @@
 
 
 <br>
+
+
+# What is the expected outcome?
+
+---
+
+> We expect this and that to happen due to John Doe's patches.
+
+---
