@@ -44,3 +44,9 @@
 > We expect this and that to happen due to John Doe's patches.
 
 ---
+
+
+<br>
+
+
+> Assigned to: `@contributor_1`, `@contributor_2`.
