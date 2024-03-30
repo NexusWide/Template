@@ -37,7 +37,7 @@
 > which includes all branches of versioning and segmentation disregarding the present state of the Application Programming Interface.
 
 > The atop-mentioned fragments are to be interpreted as the whole of the pre-release versions ( Alpha, Beta ), development versions and post-release versions.
-> Therefore any misguidance of this security policy documentation, through any development chapter of the project, will be followed by legal prosecution. 
+> Therefore any misguidance of the following policy regulations, through any development chapter of the project, will be followed by legal prosecution. 
 
 
 ---
