@@ -80,3 +80,18 @@
 > removal of the contributor from further modifications of the original Work.
 
 ---
+
+
+<br>
+
+
+# What are the possible report bridges of the project?
+
+---
+
+> All provisions of misguidance, harassment, disapproval and rejection of the project regulations,
+> shall be reported to the NexusWide management team via Electronic Mail: 
+
+> nexuswide.contact@protonmail.com
+
+---
