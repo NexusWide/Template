@@ -5,6 +5,7 @@
 
 > - [Purpose of intent](#what-are-the-purposes-of-this-file)
 > - [Version Appliances](#which-development-stages-of-the-project-does-this-document-apply-to)
+> - [Third Party Applications legalization](#-What-are-the-third-party-tool-compensations-of-the-project) 
 > - [Contribution affirmations and laws](#What-are-the-contributors-affirmations-to-the project-owners)
 > - [Report evaluation and submission](#what-are-the-possible-report-bridges-of-the-project)
 
@@ -67,6 +68,28 @@
 
 
 ---
+
+
+<br>
+
+
+# What are the third-party tool compensations of the project?
+
+---
+
+> All of the third-party tools and development kits acquired to manufacture the project, as compromised by the NexusWide organization, are applicable 
+> to the Copyright affirmations of the anointed corporation responsible for the production of the corresponding tool.  
+
+> This actuality acknowledges that the usage of the following listed tools, is comprehensively legal based on the terms introduced by their manufacturing corporations.
+
+
+> | name | usage accommodation | 
+> | ---- | ------------------- |
+> | LaTeX typesetting engine | Typesetting of the documentation files represented in the organization | 
+
+
+---
+
 
 
 <br>
