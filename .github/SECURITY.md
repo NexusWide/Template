@@ -121,4 +121,19 @@
 
 > nexuswide.contact@protonmail.com
 
+
+> [!NOTE]
+> **Please note that the reports must contain at least five sections**:
+>
+>  1. *The title* : **A concise text line that which will clearly visualize cite of the report.**
+> 
+>  2. *Contributor information* : **Information of the reported contributer, ex: ( ID , Username , ETC).**
+> 
+>  3. *Description* : **A clear description of the regulated law and how it has affected you or/and occurred.**
+> 
+>  4. *Proof* : **A file that demonstrate the action of the mentioned contributer, ex: ( Screenshot, Video, Witness).**
+> 
+>  5. *Contact information* : **Two or more ways for being notified about the status of the report..**
+
+
 ---
