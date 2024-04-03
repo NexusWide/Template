@@ -33,6 +33,9 @@
 ---
 
 
+<br>
+
+
 # Which development stages of the project does this document apply to?
 
 ---
@@ -136,4 +139,7 @@
 >  5. *Contact information* : **Two or more ways for being notified about the status of the report..**
 
 
----
+--- 
+
+
+<br>
