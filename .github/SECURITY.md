@@ -5,6 +5,7 @@
 
 > - [Purpose of intent](#what-are-the-purposes-of-this-file)
 > - [Version Appliances](#which-development-stages-of-the-project-does-this-document-apply-to)
+> - [License Appliances](#what-are-the-license-appliances-of-the-situated-application)
 > - [Contribution affirmations and laws](#what-are-the-contributors-affirmations-to-the project-owners)
 > - [Report evaluation and submission](#what-are-the-possible-report-bridges-of-the-project)
 
